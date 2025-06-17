@@ -1,3 +1,3 @@
 # **ETEC Prof. Camargo Aranha**
-## Aula de Programação Mobile II  
-### Professora Najara &amp; João
+## Aula de Programação Mobile II - João Siles e Najara
+
